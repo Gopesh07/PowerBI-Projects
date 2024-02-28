@@ -4,9 +4,15 @@ In today's competitive business landscape, companies are increasingly relying on
 
 # Flow:
 **1. Defining Problem Statement.**
+
 **2. Loading and Understanding Data.**
+
 **3. Data Cleaning.**
+
 **4. Data Preprocessing.**
+
 **5. Creating Interactive Charts for KPIs.**
+
 **6. Making Interactive and Dynamic Dashboard.**
+
 **7.Publishing Insights and Recommendations.**
